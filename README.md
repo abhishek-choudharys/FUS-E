@@ -6,7 +6,8 @@ Text file used: The Project Gutenberg EBook of The Adventures of Sherlock Holmes
 Number of characters: 6488666
 
 ---
-## Instructions to run:
+---
+# Instructions to run:
 
 ## Method #1: The easy way!!!
 

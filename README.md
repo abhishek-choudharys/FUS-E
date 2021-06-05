@@ -11,7 +11,7 @@ Number of characters: 6488666
 
 ## Method #1: The easy way!!!
 
-## Method #2: The more complicated way!!!
+## Method #2: The not-so-easy way.
 
 Note: To avoid any unwanted hassles, you can easily run the code on Google Colab.
 

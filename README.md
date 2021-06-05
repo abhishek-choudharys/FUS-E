@@ -10,7 +10,21 @@ Number of characters: 6488666
 # Instructions to run:
 
 ## Method #1: The easy way!!!
+Inorder to do this, just follow these steps.
 
+### 1. Clone the repository
+``` 
+!git clone https://github.com/abhishek-choudharys/FUS-E.git
+```
+
+### 2. Run the .exe file
+
+- If you want to query on largeText.txt, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_keyword.exe">**_test_keyword.exe_**</a>. Enter the query and see the results.
+- _(Optional)_ If you want to select your own input file, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_customFile.exe">**_test_customFile.exe_**</a>. Enter the address of the .txt file and then the search query.
+
+Easy Peasy Fuzzy Search. Show some love and ⭐ the repository.
+
+---
 ## Method #2: The not-so-easy way.
 
 Note: To avoid any unwanted hassles, you can easily run the code on Google Colab.
@@ -38,7 +52,7 @@ If you want to copy my exact anaconda environment, run:
 (This is not really necessary)
 (Also, do this after downloading the repository)
 ``` python
-conda env create -f environment. yml
+conda env create -f src/environment. yml
 ```
 
 

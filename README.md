@@ -1,5 +1,5 @@
 # FUS-E
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237BEE7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1EEA)
 
 ## (Fuzzy unhindered search - Efficient)
 Built on Python 3.9.

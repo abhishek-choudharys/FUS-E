@@ -1,4 +1,5 @@
 # FUS-E
+![](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.FUS-E)
 ## (Fuzzy unhindered search - Efficient)
 Built on Python 3.9.
 

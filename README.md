@@ -57,7 +57,7 @@ If you want to copy my exact anaconda environment, run:
 (This is not really necessary)
 (Also, do this after downloading the repository)
 ``` python
-conda env create -f src/environment. yml
+conda env create -f src/environment.yml
 ```
 
 

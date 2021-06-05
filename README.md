@@ -31,7 +31,7 @@ Inorder to do this, just follow these steps.
 Easy Peasy Fuzzy Search. Show some love and ⭐ the repository.
 
 ---
-## Method #2: The I-want-to-see-the-code way.
+## Method #2: The i-want-to-see-the-code way.
 
 Note: To avoid any unwanted hassles, you can easily run the code on Google Colab.
 

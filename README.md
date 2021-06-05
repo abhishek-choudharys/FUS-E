@@ -1,5 +1,6 @@
 # FUS-E
-![](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.FUS-E) ![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/FUS-E?style=for-the-badge)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1E7A)
+
 ## (Fuzzy unhindered search - Efficient)
 Built on Python 3.9.
 

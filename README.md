@@ -1,5 +1,6 @@
 # FUS-E
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1EEA)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1EEA) &nbsp; [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-python.svg)](https://GitHub.com/)
+
 
 ## (Fuzzy unhindered search - Efficient)
 Built on Python 3.9.

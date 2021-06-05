@@ -7,7 +7,7 @@
 ## (Fuzzy unhindered search - Efficient)
 Built on Python 3.9.
 
-Text file: The Project Gutenberg EBook of The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle. ( <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/largeText.txt">largeText.txt</a> ) </br>
+Text file: The Project Gutenberg EBook of The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle. ( <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/largeText.txt">``` largeText.txt ```</a> ) </br>
 Number of characters: 6488666
 
 ---
@@ -24,8 +24,8 @@ Inorder to do this, just follow these steps.
 
 ### 2. Run the .exe file
 
-- If you want to query on largeText.txt, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_keyword.exe">**_test_keyword.exe_**</a>. Enter the query and see the results.
-- _(Optional)_ If you want to select your own input file, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_customFile.exe">**_test_customFile.exe_**</a>. Enter the address of the .txt file and then the search query.
+- If you want to query on largeText.txt, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_keyword.exe">**_``` test_keyword.exe ```_**</a>. Enter the query and see the results.
+- _(Optional)_ If you want to select your own input file, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_customFile.exe">**_``` test_customFile.exe ```_**</a>. Enter the address of the .txt file and then the search query.
 
 Easy Peasy Fuzzy Search. Show some love and ⭐ the repository.
 
@@ -71,13 +71,13 @@ Download the code using this command and set current location as the directory.
 cd FUS-E
 ```
 
-If you want to see the results on pre-defined input file by entering the keyword, just run test_keyword.py.
-You can enter your search query here, based on largeText.txt.
+If you want to see the results on pre-defined input file by entering the keyword, just run ``` test_keyword.py ```.
+You can enter your search query here, based on ``` largeText.txt ```.
 ``` 
 run src/test_keyword.py
 ```
 
-If you want to test it on your input file, run test_customFile.py.
+If you want to test it on your input file, run ``` test_customFile.py ```.
 Enter the address of the text file when prompted, and then enter your query.
 ``` 
 run src/test_customFile.py

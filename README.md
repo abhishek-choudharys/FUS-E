@@ -52,13 +52,14 @@ Download the code using this command and set current location as the directory.
 cd FUS-E
 ```
 
-If you want to see the results on pre-defined input, just run timed_test.py.
+If you want to see the results on pre-defined input file by entering the keyword, just run test_keyword.py.
+You can enter your search query here, based on largeText.txt.
 ``` 
-run timed_test.py
+run src/test_keyword.py
 ```
 
-If you want to test it on your input, run timed_test_custom.py.
-You can enter your own search query here, based on largeText.txt.
+If you want to test it on your input file, run test_customFile.py.
+Enter the address of the text file when prompted, and then enter your query.
 ``` 
-run timed_test_custom.py
+run src/test_customFile.py
 ```

@@ -1,10 +1,11 @@
 # FUS-E 
+## (Fuzzy unhindered search - Efficient)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1EEA) &nbsp; [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vwm8YNFCy8)
 
 
 
 
-## (Fuzzy unhindered search - Efficient)
+
 Built on Python 3.9.
 
 Text file: The Project Gutenberg EBook of The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle. ( <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/largeText.txt">``` largeText.txt ```</a> ) </br>

@@ -22,6 +22,7 @@ Inorder to do this, just follow these steps.
 ``` 
 !git clone https://github.com/abhishek-choudharys/FUS-E.git
 ```
+Or you can download it directly.
 
 ### 2. Run the .exe file
 

@@ -89,7 +89,6 @@ run src/test_customFile.py
 ```
 
 ---
----
 # Results:
 A couple of snapshots demonstrating the search.
 
@@ -99,6 +98,7 @@ A couple of snapshots demonstrating the search.
   
 </p>
 
+---
 ---
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) &nbsp; [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://gitHub.com/abhishek-choudharys/)
 

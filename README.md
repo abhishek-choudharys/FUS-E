@@ -91,9 +91,10 @@ run src/test_customFile.py
 ---
 ---
 # Results:
+A couple of snapshots demonstrating the search.
 
 <p align="center"> 
-  <img src="https://github.com/abhishek-choudharys/FUS-E/blob/main/results/result1.png?raw=true" alt="Result 2" width="460" />
+  <img src="https://github.com/abhishek-choudharys/FUS-E/blob/main/results/result1.png?raw=true" alt="Result 2" width="460"/>
   <img src="https://github.com/abhishek-choudharys/FUS-E/blob/main/results/result2.png?raw=true" alt="Result 2" width="380"/>
   
 </p>

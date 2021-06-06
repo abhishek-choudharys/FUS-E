@@ -87,5 +87,13 @@ Enter the address of the text file when prompted, and then enter your query.
 ``` 
 run src/test_customFile.py
 ```
+
+---
+---
+# Results:
+
+![](https://github.com/abhishek-choudharys/FUS-E/blob/main/results/result1.png?raw=true)
+![](https://github.com/abhishek-choudharys/FUS-E/blob/main/results/result2.png?raw=true)
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) &nbsp; [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://gitHub.com/abhishek-choudharys/)
 

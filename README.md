@@ -25,6 +25,7 @@ Inorder to do this, just follow these steps.
 Or you can ```download``` it directly as a ```.zip``` file by clicking <a href = "https://github.com/abhishek-choudharys/FUS-E/archive/refs/heads/main.zip">here</a>.
 
 ### 2. Run the .exe file
+To see example queries, scroll down to see examples here.
 
 - If you want to query on largeText.txt, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_keyword.exe">**_``` test_keyword.exe ```_**</a>. Enter the query and see the results.
 - _(Optional)_ If you want to select your own input file, just run <a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/test_customFile.exe">**_``` test_customFile.exe ```_**</a>. Enter the address of the .txt file and then the search query.

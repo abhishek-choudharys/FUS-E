@@ -28,6 +28,7 @@ def extract_position(string):
     
     idx = idx+6
     e_idx = string[idx]
+    idx = idx+1
     while string[idx] != ',':
         e_idx += string[idx]
         idx += 1

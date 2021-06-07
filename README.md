@@ -22,7 +22,7 @@ Inorder to do this, just follow these steps.
 ``` 
 !git clone https://github.com/abhishek-choudharys/FUS-E.git
 ```
-Or you can ```download``` it directly as a ```.zip``` file by clicking <a href = "https://github.com/abhishek-choudharys/FUS-E/archive/refs/heads/main.zip">here</a>.
+Or you can ```download``` it directly as a ```.zip``` file by clicking <a href = "https://github.com/abhishek-choudharys/FUS-E/archive/refs/heads/main.zip">here</a>. Then extract the contents and move to step 2.
 
 ### 2. Run the .exe file
 

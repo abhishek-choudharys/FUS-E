@@ -5,7 +5,7 @@
 
 
 
-Built on Python 3.9.
+Built with Python 3.9.
 
 Text file: The Project Gutenberg EBook of The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle. (<a href="https://github.com/abhishek-choudharys/FUS-E/blob/main/largeText.txt">``` largeText.txt ```</a>)
 <br>

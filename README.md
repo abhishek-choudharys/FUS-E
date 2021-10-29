@@ -1,5 +1,6 @@
 ![](https://github.com/abhishek-choudharys/FUS-E/blob/main/imgs/banner.png?raw=true)
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1EEA)
 
 Built with Python 3.9.
 

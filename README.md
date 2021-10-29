@@ -1,9 +1,5 @@
 ![](https://github.com/abhishek-choudharys/FUS-E/blob/main/imgs/banner.png?raw=true)
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhishek-choudharysf&repo=FUS-E&countColorcountColor&countColor=%237B1EEA) &nbsp; [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vwm8YNFCy8)
-
-
-
 
 Built with Python 3.9.
 
